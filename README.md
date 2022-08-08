@@ -2,10 +2,7 @@
 
 ## Problem Statement
 
-Data in the social networking services is increasing day by day. So, there is heavy requirement to study the highly 
-dynamic behavior of the users towards these services. This work is a preliminary work to study and model the user activity 
-patterns. We had targeted the most active social networking service ‘Facebook’ importantly the ‘Facebook Pages’ for analysis. The 
-task here is to estimate the comment count that a post is expected to receive in next few hours.
+Data in the social networking services is increasing day by day. So, there is heavy requirement to study the highly dynamic behavior of the users towards these services. The task here is to estimate the comment count that a post is expected to receive in next few(H) hours. Data has been scraped from one of the most popular social networking sites - Facebook.
 
 ## Dataset Source Link
 
